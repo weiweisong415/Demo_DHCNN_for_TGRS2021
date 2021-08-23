@@ -15,7 +15,7 @@ to obtain the smaller-value maps obained by this code than the results reported 
 
 ### 3. Data processing:
 Download the UC Merced dataset from https://pan.baidu.com/s/1bEsOdaklaQgEKbFpq0mK1g , the passwords are: ucmd. 
-### 6. Demo:
+### 4. Demo:
 ```python
 python DHCNN_UCMD21.py
 ```
