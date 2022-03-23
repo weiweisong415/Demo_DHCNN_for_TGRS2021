@@ -1,6 +1,7 @@
 # DHCNN_for_TGRS2021
 
-DHCNN implementation for TGRS2021 paper "Deep Hashing Learning for Visual and Semantic Retrieval of Remote Sensing Images"
+DHCNN implementation for TGRS2021 paper "Deep Hashing Learning for Visual and Semantic Retrieval of Remote Sensing Images".
+
 This is the code implementation for our paper "Deep Hashing Learning for Visual and Semantic Retrieval of Remote Sensing Images", IEEE Trans. Geosci. Remote Sens, 2021.
 
 Here, we provide two visions, i.e., DHCNN-Matconvnet and DHCNN-Pytorch. You can choise one of them to reimplement the results in our paper.
